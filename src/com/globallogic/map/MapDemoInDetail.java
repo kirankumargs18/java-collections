@@ -13,6 +13,7 @@ public class MapDemoInDetail {
 		 * 
 		 * It does not maintain insertion order of key value pairs.HashMap allows one
 		 * null key and multiple null values.
+		 * by default keys will be sorted
 		 */
 		HashMap<String, String> hashMap = new HashMap<>();
 		hashMap.put("one", "1");
